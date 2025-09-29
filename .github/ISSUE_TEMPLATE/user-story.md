@@ -1,4 +1,10 @@
 ---
+name: user-story
+about: covers user stories
+title: "user-story"
+labels: user-story
+assignees: ""
+---
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
